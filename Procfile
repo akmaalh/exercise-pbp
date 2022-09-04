@@ -1,0 +1,1 @@
+web: gunicorn maleeh.wsgi --log-file -
